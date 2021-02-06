@@ -1,7 +1,6 @@
 # ConnectionTADemo
 
 EmailProcessing 
-
 Connection POC Demo
 
 Steven Reeves
