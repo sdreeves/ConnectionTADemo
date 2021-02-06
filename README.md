@@ -1,9 +1,9 @@
 # ConnectionTADemo
 
-EmailProcessing 
-Connection POC Demo
-
-Steven Reeves
+* EmailProcessing 
+* Connection
+* POC Demo
+* Steven Reeves
 
 Distribution Data Scientist
 
