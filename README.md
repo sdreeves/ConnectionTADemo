@@ -3,11 +3,7 @@
 * EmailProcessing 
 * Connection
 * POC Demo
-* Steven Reeves
 
-Distribution Data Scientist
+  Steven Reeves - sdreeves@us.ibm.com
 
-Text Analytics Specialist
-
-sdreeves@us.ibm.com
 
