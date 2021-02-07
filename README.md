@@ -1,9 +1,9 @@
 # ConnectionTADemo
 
 * EmailProcessing 
-* Connection
+* PC Connection (Customer)
 * POC Demo
 
-  Steven Reeves - sdreeves@us.ibm.com
+ Steven Reeves - sdreeves@us.ibm.com
 
 
